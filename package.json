@@ -1,0 +1,17 @@
+{
+    "name": "josephgf.obsidian2",
+    "title": "Obsidian 2.0",
+    "description": "Theme based on Obsidian for Seam and change highlight colours",
+    "homepage": "https://github.com/JosephGF/bracketstheme-obsidian2",
+    "version": "1.0",
+    "author": "Joseph Girón Flores",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "theme.css",
+		"dark": true
+    },
+    "keywords": ["obsidian, theme"]
+}
