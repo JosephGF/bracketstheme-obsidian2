@@ -24,3 +24,8 @@ Obsidian original
 ![PHP Screenshot](/screenshot/obsidian.php.png)
 Obsidian 2
 ![PHP Screenshot](/screenshot/obsidian2.php.png)
+
+Change log: 
+V 1.1.0
+  - Added color suppot with https://github.com/DennisKehrig/brackets-show-whitespace plugin
+  - Added border bottom red highlight on matching tags and brackets 
