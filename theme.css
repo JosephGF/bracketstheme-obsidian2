@@ -131,6 +131,6 @@
 }
 
 /* plugin suppot https://github.com/DennisKehrig/brackets-show-whitespace */
-.cm-dk-whitespace-leading-space:before, .cm-dk-whitespace-leading-tab:before, .cm-dk-whitespace-tab:before {
+.cm-dk-whitespace-leading-space:before, .cm-dk-whitespace-leading-tab:before, .cm-dk-whitespace-tab:before, , .cm-dk-whitespace-space:before {
     background-color:#5E5E5E !important
 }
